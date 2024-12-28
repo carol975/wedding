@@ -252,7 +252,7 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url('../img/hero-min.jpg') center center;
+  background: url('../img/place_holder.jpg') center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -370,13 +370,6 @@ header {
   bottom: 30px;
   left: 50%;
   transform: translateX(-50%);
-}
-
-/* ==========================================================================
-Social share buttons
-========================================================================== */
-.share-bar {
-  margin-top: 20px;
 }
 
 /* ==========================================================================
@@ -561,7 +554,7 @@ Features-stack
   }
 
   .time {
-    font-size: 13px;
+    font-size: 16px;
     font-style: italic;
     text-transform: lowercase;
     color: $txt-primary;
